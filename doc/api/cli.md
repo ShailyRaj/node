@@ -1292,7 +1292,7 @@ endpoint on `http://host:port/json/list`.
 ### `--inspect-wait[=[host:]port]`
 
 <!-- YAML
-added: REPLACEME
+added: v20.15.0
 -->
 
 Activate inspector on `host:port` and wait for debugger to be attached.
